@@ -7,6 +7,5 @@ import org.springframework.boot.runApplication
 class BackApplication
 
 fun main(args: Array<String>) {
-
     runApplication<BackApplication>(*args)
 }
